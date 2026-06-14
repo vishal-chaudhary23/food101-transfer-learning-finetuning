@@ -1,6 +1,3 @@
-# food101-transfer-learning-finetuning
-Food101 image classification using EfficientNetB0, Transfer Learning, Fine-Tuning, and Mixed Precision training with TensorFlow.
-
 # Food101 Image Classification using EfficientNetB0 - Fine-Tuning
 
 ## Overview

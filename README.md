@@ -4,7 +4,7 @@
 
 Built a deep learning image classification system on the Food101 dataset using TensorFlow and Keras. The project leverages transfer learning with EfficientNetB0, mixed precision training (FP16), and fine-tuning to improve classification performance while reducing training time.
 
-![graph demo](training vs validation graph)
+![graph demo](training vs validation graph.png)
 
 ## Key Features
 
